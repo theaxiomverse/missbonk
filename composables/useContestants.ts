@@ -3,11 +3,11 @@ export const useContestants = () => {
       {
         id: 1,
         name: 'Jessica Chen',
-        image: 'https://i.pravatar.cc/400?img=47',
+        image: '/candidate1.png',
         galleryImages: [
-          'https://i.pravatar.cc/400?img=25',
-          'https://i.pravatar.cc/400?img=27',
-          'https://i.pravatar.cc/400?img=29'
+          '/candidate1-2.png',
+          '/candidate1-3.png',
+          '/candidate1-4.png'
         ],
         country: 'Singapore',
         age: 24,
@@ -21,11 +21,11 @@ export const useContestants = () => {
       {
         id: 2,
         name: 'Maria Garcia',
-        image: 'https://i.pravatar.cc/400?img=31',
+        image: '/candidate2.png',
         galleryImages: [
-          'https://i.pravatar.cc/400?img=32',
-          'https://i.pravatar.cc/400?img=33',
-          'https://i.pravatar.cc/400?img=35'
+          '/candidate2-2.png',
+          '/candidate2-3.png',
+          '/candidate2-4.png'
         ],
         country: 'Spain',
         age: 26,
@@ -39,11 +39,11 @@ export const useContestants = () => {
       {
         id: 3,
         name: 'Sarah Johnson',
-        image: 'https://i.pravatar.cc/400?img=37',
+        image: '/candidate3.png',
         galleryImages: [
-          'https://i.pravatar.cc/400?img=38',
-          'https://i.pravatar.cc/400?img=41',
-          'https://i.pravatar.cc/400?img=43'
+          '/candidate3-2.png',
+          '/candidate3-3.png',
+          '/candidate3-4.png'
         ],
         country: 'USA',
         age: 25,
