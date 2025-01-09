@@ -41,7 +41,7 @@
           <div class="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://i.pravatar.cc/600?img=25" 
+                src="/candidate3-3.png" 
                 alt="Current Miss Bonk"
                 class="w-full rounded-xl shadow-2xl"
               />
